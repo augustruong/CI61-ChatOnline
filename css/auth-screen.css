@@ -1,0 +1,14 @@
+.auth-screen {
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    margin: auto;
+    padding: 50px;
+}
+
+.auth-screen > * {
+    width: 320px;
+}

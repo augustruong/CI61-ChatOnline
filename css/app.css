@@ -1,0 +1,18 @@
+@import url("./input-wrapper.css");
+@import url("./register-form.css");
+@import url("./login-form.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url("./auth-screen.css");
+@import url("./app-stat.css");
+@import url("./user-actions.css");
+@import url("./message-container.css");
+@import url("./send-message-form.css");
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}

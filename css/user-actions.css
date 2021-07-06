@@ -1,0 +1,22 @@
+.user-actions .action-btn {
+    width: 100%;
+    height: 30px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: teal;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.user-actions .flirt-btn {
+    background-color: #4A8AF4;
+}
+.user-actions .bite-btn {
+    background-color: #1AA15F;
+}
+.user-actions .stop-flirting-btn {
+    background-color: #FFCD42;
+}
+.user-actions .end-conversation-btn {
+    background-color: #DD4145;
+}
